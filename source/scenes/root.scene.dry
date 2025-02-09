@@ -622,7 +622,7 @@ audio: shuffle music/1928_1930/FruhlingsliedMendelssohn.mp3 music/1928_1930/AUF_
 new-page: true
 go-to: main if difficulty >= 0; main.main_easy if difficulty < 0
 
-= 1928
+= 1917
 
 It is a hard time to live through. Entente, of which Russian Empire is an ally, and the Central Powers are engaging in the bloodiest war in history. Hunger, economic downfall, and dissent are at an all-time high. For us, however, it is an opportunity to finally obtain the long-desired freedom.
 
